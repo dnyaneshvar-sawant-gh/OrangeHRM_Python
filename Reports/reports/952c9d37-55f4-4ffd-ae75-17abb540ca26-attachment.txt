@@ -1,0 +1,57 @@
+[32mINFO    [0m root:test_login_dd.py:26 ************* Test_002_DDT_Login ***********
+[32mINFO    [0m root:test_login_dd.py:27 ************* Verifying login ddt  ***********
+[32mINFO    [0m root:test_login_dd.py:57 ******** login successful for Admin *********
+[32mINFO    [0m root:test_login_dd.py:57 ******** login successful for admin *********
+[32mINFO    [0m root:test_login_dd.py:52 ******** Exception is: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='oxd-icon bi-caret-down-fill oxd-userdropdown-icon']"}
+  (Session info: chrome=125.0.6422.112); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EF2F1F22+60322]
+	(No symbol) [0x00007FF6EF26CE99]
+	(No symbol) [0x00007FF6EF127EBA]
+	(No symbol) [0x00007FF6EF177676]
+	(No symbol) [0x00007FF6EF17773C]
+	(No symbol) [0x00007FF6EF1BE967]
+	(No symbol) [0x00007FF6EF19C25F]
+	(No symbol) [0x00007FF6EF1BBC80]
+	(No symbol) [0x00007FF6EF19BFC3]
+	(No symbol) [0x00007FF6EF169617]
+	(No symbol) [0x00007FF6EF16A211]
+	GetHandleVerifier [0x00007FF6EF60946D+3301613]
+	GetHandleVerifier [0x00007FF6EF653693+3605267]
+	GetHandleVerifier [0x00007FF6EF649410+3563664]
+	GetHandleVerifier [0x00007FF6EF3A42F6+790390]
+	(No symbol) [0x00007FF6EF2774DF]
+	(No symbol) [0x00007FF6EF2733D4]
+	(No symbol) [0x00007FF6EF273562]
+	(No symbol) [0x00007FF6EF262F6F]
+	BaseThreadInitThunk [0x00007FF829AC7034+20]
+	RtlUserThreadStart [0x00007FF82B462651+33]
+ *********
+[32mINFO    [0m root:test_login_dd.py:71 ******** login Unsuccessful for User *********
+[32mINFO    [0m root:test_login_dd.py:52 ******** Exception is: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@class='oxd-icon bi-caret-down-fill oxd-userdropdown-icon']"}
+  (Session info: chrome=125.0.6422.112); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6EF2F1F22+60322]
+	(No symbol) [0x00007FF6EF26CE99]
+	(No symbol) [0x00007FF6EF127EBA]
+	(No symbol) [0x00007FF6EF177676]
+	(No symbol) [0x00007FF6EF17773C]
+	(No symbol) [0x00007FF6EF1BE967]
+	(No symbol) [0x00007FF6EF19C25F]
+	(No symbol) [0x00007FF6EF1BBC80]
+	(No symbol) [0x00007FF6EF19BFC3]
+	(No symbol) [0x00007FF6EF169617]
+	(No symbol) [0x00007FF6EF16A211]
+	GetHandleVerifier [0x00007FF6EF60946D+3301613]
+	GetHandleVerifier [0x00007FF6EF653693+3605267]
+	GetHandleVerifier [0x00007FF6EF649410+3563664]
+	GetHandleVerifier [0x00007FF6EF3A42F6+790390]
+	(No symbol) [0x00007FF6EF2774DF]
+	(No symbol) [0x00007FF6EF2733D4]
+	(No symbol) [0x00007FF6EF273562]
+	(No symbol) [0x00007FF6EF262F6F]
+	BaseThreadInitThunk [0x00007FF829AC7034+20]
+	RtlUserThreadStart [0x00007FF82B462651+33]
+ *********
+[32mINFO    [0m root:test_login_dd.py:71 ******** login Unsuccessful for Admin *********
+[32mINFO    [0m root:test_login_dd.py:75 ***************** Login DDT Test is passed ******************

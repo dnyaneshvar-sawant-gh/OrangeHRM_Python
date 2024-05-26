@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_login_dd.py:26 ************* Test_002_DDT_Login ***********
+[32mINFO    [0m root:test_login_dd.py:27 ************* Verifying login ddt  ***********
+[32mINFO    [0m root:test_login_dd.py:56 ******** login successful for Admin *********
+[32mINFO    [0m root:test_login_dd.py:56 ******** login successful for admin *********
+[32mINFO    [0m root:test_login_dd.py:70 ******** login Unsuccessful for User *********
+[32mINFO    [0m root:test_login_dd.py:70 ******** login Unsuccessful for Admin *********
+[32mINFO    [0m root:test_login_dd.py:74 ***************** Login DDT Test is passed ******************

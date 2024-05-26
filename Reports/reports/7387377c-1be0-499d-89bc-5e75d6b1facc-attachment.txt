@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_delete_employee.py:25 *************** Test_005_DeleteEmp ***************
+[32mINFO    [0m root:test_delete_employee.py:26 *************** Verifying test_delete_emp ***************
+[32mINFO    [0m root:test_delete_employee.py:53 *************** test_delete_emp passed ***************

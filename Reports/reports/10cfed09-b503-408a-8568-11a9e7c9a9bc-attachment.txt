@@ -1,0 +1,2 @@
+[32mINFO    [0m root:test_search_employee.py:35 *************** Test_004_SearchEmp ***************
+[32mINFO    [0m root:test_search_employee.py:36 *************** Verifying test_search_by_name ***************
