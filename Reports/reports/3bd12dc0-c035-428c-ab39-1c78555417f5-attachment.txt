@@ -1,3 +1,0 @@
-[32mINFO    [0m root:test_add_employee.py:36 ***************** Test_003_AddEmployee **************
-[32mINFO    [0m root:test_add_employee.py:37 ***************** Verifying Add Employee Test **************
-[32mINFO    [0m root:test_add_employee.py:54 ******************** Add Employee test Passed *******************

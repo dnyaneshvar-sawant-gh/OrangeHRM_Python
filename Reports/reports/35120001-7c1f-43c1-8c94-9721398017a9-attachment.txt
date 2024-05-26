@@ -1,2 +1,0 @@
-[32mINFO    [0m root:test_login.py:24 *************** Test_001_Login ***************
-[32mINFO    [0m root:test_login.py:29 ************* test_homepage_title test passed *****************
