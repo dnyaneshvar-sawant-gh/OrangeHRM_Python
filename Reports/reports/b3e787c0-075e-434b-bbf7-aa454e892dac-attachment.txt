@@ -1,4 +1,0 @@
-[32mINFO    [0m root:test_create_employee.py:29 ***************** Test_006_CreateEmployee **************
-[32mINFO    [0m root:test_create_employee.py:30 ***************** Verifying Create Employee Test **************
-[32mINFO    [0m root:test_create_employee.py:44 ***************** Create Employee Test Passed **************
-[32mINFO    [0m root:test_create_employee.py:63 ***************** New Employee is Deleted **************

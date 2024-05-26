@@ -1,3 +1,0 @@
-[32mINFO    [0m root:test_search_employee.py:68 *************** Test_004_SearchEmp ***************
-[32mINFO    [0m root:test_search_employee.py:69 *************** Verifying test_search_by_name ***************
-[32mINFO    [0m root:test_search_employee.py:90 *************** Search Employee by Emp id Test Passed ***************
