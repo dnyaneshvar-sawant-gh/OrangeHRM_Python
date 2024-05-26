@@ -23,6 +23,7 @@ class Test_006_CreateEmployee:
     new_password = ReadConfig.get_new_password()
 
     logger = LogGen.loggen()
+    gg = "kk"
 
     def test_create_new_emp(self, setup):
         try:
